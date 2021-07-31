@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CEDResources>
+	<DocTime>
+		<Templates>
+			<TempOffline>
+				<Ch1 id="1" NumTmpl="23" NumPts="21" NumTrace="1" TrigOff="9" Int="4.9999999999999996e-5" PropIn="0.5" TrackNum="64" MaxAmpCh="15" AmpErr="0.0999908447265625" Decay="60" NumNew="3" TimeC="9" Flags="8" YTop="403" CWPre="28" CWPts="84">
+					<e TrLow="-104" TrHi="94" LimLow="-32768" LimHi="32767"/>
+					<t id="0" Pts="21" Trs="1" MaxErr="1585" NumSp="219" Code="1">
+						<t>
+							<s Val="10" Err="26" Min="8"/>
+							<s Val="15" Err="32" Min="8"/>
+							<s Val="11" Err="26" Min="8"/>
+							<s Val="15" Err="31" Min="8"/>
+							<s Val="12" Err="27" Min="8"/>
+							<s Val="7" Err="25" Min="8"/>
+							<s Val="-5" Err="24" Min="8"/>
+							<s Val="-39" Err="23" Min="8"/>
+							<s Val="-74" Err="25" Min="8"/>
+							<s Val="-103" Err="22" Min="8"/>
+							<s Val="-83" Err="26" Min="8"/>
+							<s Val="-28" Err="24" Min="8"/>
+							<s Val="32" Err="22" Min="8"/>
+							<s Val="63" Err="32" Min="8"/>
+							<s Val="75" Err="27" Min="8"/>
+							<s Val="64" Err="28" Min="8"/>
+							<s Val="56" Err="20" Min="8"/>
+							<s Val="40" Err="23" Min="8"/>
+							<s Val="34" Err="23" Min="8"/>
+							<s Val="17" Err="22" Min="8"/>
+							<s Val="19" Err="22" Min="8"/>
+						</t>
+					</t>
+					<t id="1" Pts="21" Trs="1" MaxErr="999" NumSp="306" Code="2">
+						<t>
+							<s Val="-35" Err="13" Min="8"/>
+							<s Val="-26" Err="13" Min="8"/>
+							<s Val="-18" Err="13" Min="8"/>
+							<s Val="-3" Err="13" Min="8"/>
+							<s Val="10" Err="15" Min="8"/>
+							<s Val="23" Err="12" Min="8"/>
+							<s Val="38" Err="14" Min="8"/>
+							<s Val="48" Err="11" Min="8"/>
+							<s Val="55" Err="13" Min="8"/>
+							<s Val="53" Err="10" Min="8"/>
+							<s Val="54" Err="13" Min="8"/>
+							<s Val="43" Err="8" Min="8"/>
+							<s Val="37" Err="10" Min="8"/>
+							<s Val="28" Err="10" Min="8"/>
+							<s Val="23" Err="16" Min="8"/>
+							<s Val="14" Err="15" Min="8"/>
+							<s Val="6" Err="18" Min="8"/>
+							<s Val="-4" Err="15" Min="8"/>
+							<s Val="-13" Err="13" Min="8"/>
+							<s Val="-20" Err="12" Min="8"/>
+							<s Val="-25" Err="18" Min="8"/>
+						</t>
+					</t>
+					<t id="2" Pts="21" Trs="1" MaxErr="1092" NumSp="396" Code="3">
+						<t>
+							<s Err="24" Min="8"/>
+							<s Val="4" Err="19" Min="8"/>
+							<s Val="11" Err="19" Min="8"/>
+							<s Val="16" Err="19" Min="8"/>
+							<s Val="24" Err="15" Min="8"/>
+							<s Val="34" Err="14" Min="8"/>
+							<s Val="46" Err="17" Min="8"/>
+							<s Val="55" Err="18" Min="8"/>
+							<s Val="61" Err="16" Min="8"/>
+							<s Val="65" Err="16" Min="8"/>
+							<s Val="60" Err="13" Min="8"/>
+							<s Val="52" Err="12" Min="8"/>
+							<s Val="33" Err="8" Min="8"/>
+							<s Val="19" Err="10" Min="8"/>
+							<s Val="2" Err="12" Min="8"/>
+							<s Val="-13" Err="12" Min="8"/>
+							<s Val="-26" Err="12" Min="8"/>
+							<s Val="-40" Err="13" Min="8"/>
+							<s Val="-50" Err="12" Min="8"/>
+							<s Val="-54" Err="15" Min="8"/>
+							<s Val="-56" Err="17" Min="8"/>
+						</t>
+					</t>
+					<t id="3" Pts="21" Trs="1" MaxErr="1169" NumSp="366" Code="4">
+						<t>
+							<s Val="15" Err="19" Min="8"/>
+							<s Val="6" Err="18" Min="8"/>
+							<s Val="-1" Err="19" Min="8"/>
+							<s Val="-14" Err="16" Min="8"/>
+							<s Val="-23" Err="14" Min="8"/>
+							<s Val="-35" Err="13" Min="8"/>
+							<s Val="-42" Err="19" Min="8"/>
+							<s Val="-52" Err="13" Min="8"/>
+							<s Val="-51" Err="20" Min="8"/>
+							<s Val="-53" Err="19" Min="8"/>
+							<s Val="-45" Err="21" Min="8"/>
+							<s Val="-38" Err="16" Min="8"/>
+							<s Val="-20" Err="15" Min="8"/>
+							<s Val="-4" Err="16" Min="8"/>
+							<s Val="14" Err="16" Min="8"/>
+							<s Val="28" Err="14" Min="8"/>
+							<s Val="40" Err="14" Min="8"/>
+							<s Val="48" Err="15" Min="8"/>
+							<s Val="55" Err="18" Min="8"/>
+							<s Val="59" Err="19" Min="8"/>
+							<s Val="61" Err="24" Min="8"/>
+						</t>
+					</t>
+					<t id="4" Pts="21" Trs="1" MaxErr="1100" NumSp="285" Code="5">
+						<t>
+							<s Val="46" Err="22" Min="8"/>
+							<s Val="37" Err="17" Min="8"/>
+							<s Val="37" Err="15" Min="8"/>
+							<s Val="29" Err="18" Min="8"/>
+							<s Val="23" Err="16" Min="8"/>
+							<s Val="9" Err="19" Min="8"/>
+							<s Val="-2" Err="18" Min="8"/>
+							<s Val="-18" Err="15" Min="8"/>
+							<s Val="-23" Err="19" Min="8"/>
+							<s Val="-40" Err="15" Min="8"/>
+							<s Val="-41" Err="17" Min="8"/>
+							<s Val="-41" Err="15" Min="8"/>
+							<s Val="-28" Err="15" Min="8"/>
+							<s Val="-23" Err="12" Min="8"/>
+							<s Val="-10" Err="13" Min="8"/>
+							<s Val="-7" Err="13" Min="8"/>
+							<s Val="4" Err="15" Min="8"/>
+							<s Val="8" Err="19" Min="8"/>
+							<s Val="13" Err="19" Min="8"/>
+							<s Val="11" Err="19" Min="8"/>
+							<s Val="15" Err="20" Min="8"/>
+						</t>
+					</t>
+					<t id="5" Pts="21" Trs="1" MaxErr="1040" NumSp="711" Code="6">
+						<t>
+							<s Val="-8" Err="25" Min="8"/>
+							<s Val="-2" Err="19" Min="8"/>
+							<s Err="15" Min="9"/>
+							<s Val="6" Err="13" Min="10"/>
+							<s Val="11" Err="12" Min="9"/>
+							<s Val="18" Err="13" Min="8"/>
+							<s Val="24" Err="13" Min="9"/>
+							<s Val="35" Err="17" Min="11"/>
+							<s Val="37" Err="15" Min="11"/>
+							<s Val="38" Err="13" Min="9"/>
+							<s Val="31" Err="14" Min="10"/>
+							<s Val="22" Err="12" Min="11"/>
+							<s Val="11" Err="15" Min="10"/>
+							<s Val="8" Err="15" Min="8"/>
+							<s Val="3" Err="19" Min="9"/>
+							<s Val="-2" Err="20" Min="11"/>
+							<s Val="-4" Err="20" Min="11"/>
+							<s Val="-5" Err="21" Min="12"/>
+							<s Val="-8" Err="19" Min="13"/>
+							<s Val="-8" Err="19" Min="12"/>
+							<s Val="-14" Err="19" Min="10"/>
+						</t>
+					</t>
+					<t id="6" Pts="21" Trs="1" MaxErr="1089" NumSp="240" Code="7">
+						<t>
+							<s Val="-4" Err="20" Min="8"/>
+							<s Val="-8" Err="20" Min="8"/>
+							<s Val="-5" Err="15" Min="8"/>
+							<s Val="-10" Err="15" Min="8"/>
+							<s Val="2" Err="16" Min="8"/>
+							<s Err="21" Min="8"/>
+							<s Val="17" Err="17" Min="8"/>
+							<s Val="20" Err="17" Min="8"/>
+							<s Val="45" Err="22" Min="8"/>
+							<s Val="31" Err="18" Min="8"/>
+							<s Val="30" Err="13" Min="8"/>
+							<s Val="14" Err="19" Min="8"/>
+							<s Val="12" Err="17" Min="8"/>
+							<s Val="-2" Err="15" Min="8"/>
+							<s Val="1" Err="16" Min="8"/>
+							<s Val="-5" Err="16" Min="8"/>
+							<s Val="1" Err="14" Min="8"/>
+							<s Err="18" Min="8"/>
+							<s Val="6" Err="14" Min="8"/>
+							<s Val="5" Err="22" Min="8"/>
+							<s Val="11" Err="22" Min="8"/>
+						</t>
+					</t>
+					<t id="7" Pts="21" Trs="1" MaxErr="1104" NumSp="325" Code="8">
+						<t>
+							<s Val="16" Err="16" Min="8"/>
+							<s Val="10" Err="16" Min="9"/>
+							<s Val="8" Err="14" Min="8"/>
+							<s Val="2" Err="16" Min="8"/>
+							<s Val="3" Err="16" Min="8"/>
+							<s Val="-2" Err="15" Min="8"/>
+							<s Val="-6" Err="21" Min="8"/>
+							<s Val="-17" Err="26" Min="9"/>
+							<s Val="-26" Err="24" Min="8"/>
+							<s Val="-35" Err="29" Min="9"/>
+							<s Val="-34" Err="18" Min="8"/>
+							<s Val="-30" Err="21" Min="8"/>
+							<s Val="-17" Err="15" Min="8"/>
+							<s Val="-6" Err="13" Min="8"/>
+							<s Val="11" Err="17" Min="8"/>
+							<s Val="18" Err="18" Min="8"/>
+							<s Val="28" Err="13" Min="8"/>
+							<s Val="29" Err="16" Min="8"/>
+							<s Val="26" Err="13" Min="8"/>
+							<s Val="23" Err="16" Min="8"/>
+							<s Val="24" Err="17" Min="8"/>
+						</t>
+					</t>
+					<t id="8" Pts="21" Trs="1" MaxErr="1173" NumSp="89" Code="9">
+						<t>
+							<s Val="19" Err="18" Min="8"/>
+							<s Val="8" Err="18" Min="8"/>
+							<s Val="16" Err="14" Min="8"/>
+							<s Val="3" Err="14" Min="8"/>
+							<s Val="12" Err="18" Min="8"/>
+							<s Val="-5" Err="15" Min="8"/>
+							<s Val="4" Err="19" Min="8"/>
+							<s Val="-21" Err="15" Min="8"/>
+							<s Val="-15" Err="17" Min="8"/>
+							<s Val="-30" Err="25" Min="8"/>
+							<s Val="-8" Err="17" Min="8"/>
+							<s Val="-14" Err="18" Min="8"/>
+							<s Val="8" Err="19" Min="8"/>
+							<s Val="-3" Err="18" Min="8"/>
+							<s Val="13" Err="21" Min="8"/>
+							<s Val="-5" Err="14" Min="8"/>
+							<s Val="9" Err="17" Min="8"/>
+							<s Val="-1" Err="15" Min="8"/>
+							<s Val="15" Err="18" Min="8"/>
+							<s Val="14" Err="23" Min="8"/>
+							<s Val="24" Err="21" Min="8"/>
+						</t>
+					</t>
+					<t id="9" Pts="21" Trs="1" MaxErr="1001" NumSp="88" Code="10">
+						<t>
+							<s Val="35" Err="8" Min="8"/>
+							<s Val="32" Err="8" Min="8"/>
+							<s Val="26" Err="8" Min="8"/>
+							<s Val="21" Err="8" Min="8"/>
+							<s Val="13" Err="9" Min="8"/>
+							<s Val="-5" Err="8" Min="8"/>
+							<s Val="-42" Err="8" Min="8"/>
+							<s Val="-82" Err="8" Min="8"/>
+							<s Val="-103" Err="8" Min="8"/>
+							<s Val="-111" Err="8" Min="8"/>
+							<s Val="-108" Err="8" Min="8"/>
+							<s Val="-94" Err="8" Min="8"/>
+							<s Val="-76" Err="8" Min="8"/>
+							<s Val="-54" Err="8" Min="8"/>
+							<s Val="-29" Err="8" Min="8"/>
+							<s Val="-6" Err="8" Min="8"/>
+							<s Val="18" Err="8" Min="8"/>
+							<s Val="39" Err="8" Min="8"/>
+							<s Val="61" Err="8" Min="8"/>
+							<s Val="79" Err="8" Min="8"/>
+							<s Val="97" Err="8" Min="8"/>
+						</t>
+					</t>
+					<t id="10" Pts="21" Trs="1" MaxErr="1076" NumSp="49" Code="11">
+						<t>
+							<s Val="-33" Err="12" Min="8"/>
+							<s Val="-25" Err="11" Min="8"/>
+							<s Val="-20" Err="8" Min="8"/>
+							<s Val="-8" Err="9" Min="8"/>
+							<s Val="1" Err="11" Min="8"/>
+							<s Val="33" Err="10" Min="8"/>
+							<s Val="68" Err="8" Min="8"/>
+							<s Val="100" Err="8" Min="8"/>
+							<s Val="111" Err="8" Min="8"/>
+							<s Val="112" Err="9" Min="8"/>
+							<s Val="104" Err="13" Min="8"/>
+							<s Val="88" Err="12" Min="8"/>
+							<s Val="66" Err="10" Min="8"/>
+							<s Val="42" Err="10" Min="8"/>
+							<s Val="16" Err="9" Min="8"/>
+							<s Val="-4" Err="8" Min="8"/>
+							<s Val="-29" Err="8" Min="8"/>
+							<s Val="-45" Err="10" Min="8"/>
+							<s Val="-65" Err="10" Min="8"/>
+							<s Val="-78" Err="12" Min="8"/>
+							<s Val="-94" Err="15" Min="8"/>
+						</t>
+					</t>
+					<t id="11" Pts="21" Trs="1" MaxErr="1418" NumSp="241" Code="12">
+						<t>
+							<s Val="-71" Err="31" Min="8"/>
+							<s Val="-71" Err="22" Min="8"/>
+							<s Val="-67" Err="17" Min="8"/>
+							<s Val="-47" Err="14" Min="8"/>
+							<s Val="-22" Err="15" Min="8"/>
+							<s Val="18" Err="15" Min="8"/>
+							<s Val="54" Err="15" Min="8"/>
+							<s Val="98" Err="19" Min="8"/>
+							<s Val="122" Err="20" Min="8"/>
+							<s Val="139" Err="16" Min="8"/>
+							<s Val="138" Err="15" Min="8"/>
+							<s Val="132" Err="15" Min="8"/>
+							<s Val="105" Err="13" Min="8"/>
+							<s Val="74" Err="11" Min="8"/>
+							<s Val="40" Err="15" Min="8"/>
+							<s Val="8" Err="16" Min="8"/>
+							<s Val="-23" Err="19" Min="8"/>
+							<s Val="-32" Err="22" Min="8"/>
+							<s Val="-37" Err="23" Min="8"/>
+							<s Val="-30" Err="22" Min="8"/>
+							<s Val="-30" Err="24" Min="8"/>
+						</t>
+					</t>
+					<t id="12" Pts="21" Trs="1" MaxErr="2061" NumSp="154" Code="13">
+						<t>
+							<s Val="-1" Err="29" Min="8"/>
+							<s Val="42" Err="31" Min="8"/>
+							<s Val="-7" Err="25" Min="8"/>
+							<s Val="39" Err="29" Min="8"/>
+							<s Val="-16" Err="26" Min="8"/>
+							<s Val="32" Err="24" Min="8"/>
+							<s Val="-22" Err="26" Min="8"/>
+							<s Val="49" Err="27" Min="8"/>
+							<s Val="23" Err="32" Min="8"/>
+							<s Val="93" Err="31" Min="8"/>
+							<s Val="27" Err="32" Min="8"/>
+							<s Val="52" Err="26" Min="8"/>
+							<s Val="-22" Err="32" Min="8"/>
+							<s Val="21" Err="32" Min="8"/>
+							<s Val="-46" Err="24" Min="8"/>
+							<s Val="7" Err="32" Min="8"/>
+							<s Val="-48" Err="18" Min="8"/>
+							<s Val="9" Err="27" Min="8"/>
+							<s Val="-38" Err="21" Min="8"/>
+							<s Val="16" Err="28" Min="8"/>
+							<s Val="-30" Err="29" Min="8"/>
+						</t>
+					</t>
+					<t id="13" Pts="21" Trs="1" MaxErr="1916" NumSp="33" Code="14">
+						<t>
+							<s Val="-26" Err="20" Min="8"/>
+							<s Val="24" Err="23" Min="8"/>
+							<s Val="-37" Err="20" Min="8"/>
+							<s Val="18" Err="18" Min="8"/>
+							<s Val="-42" Err="22" Min="8"/>
+							<s Val="24" Err="16" Min="8"/>
+							<s Val="-36" Err="15" Min="8"/>
+							<s Val="40" Err="19" Min="8"/>
+							<s Val="-14" Err="23" Min="8"/>
+							<s Val="66" Err="19" Min="8"/>
+							<s Val="-7" Err="17" Min="8"/>
+							<s Val="56" Err="20" Min="8"/>
+							<s Val="-18" Err="18" Min="8"/>
+							<s Val="53" Err="17" Min="8"/>
+							<s Val="-16" Err="21" Min="8"/>
+							<s Val="51" Err="19" Min="8"/>
+							<s Val="-19" Err="21" Min="8"/>
+							<s Val="46" Err="18" Min="8"/>
+							<s Val="-20" Err="18" Min="8"/>
+							<s Val="40" Err="19" Min="8"/>
+							<s Val="-34" Err="19" Min="8"/>
+						</t>
+					</t>
+					<t id="14" Pts="21" Trs="1" MaxErr="19006" NumSp="13" Code="15">
+						<t>
+							<s Val="648" Err="202" Min="202"/>
+							<s Val="647" Err="202" Min="202"/>
+							<s Val="648" Err="202" Min="202"/>
+							<s Val="647" Err="202" Min="202"/>
+							<s Val="649" Err="202" Min="202"/>
+							<s Val="648" Err="202" Min="202"/>
+							<s Val="362" Err="202" Min="202"/>
+							<s Val="-1410" Err="205" Min="202"/>
+							<s Val="-3526" Err="202" Min="202"/>
+							<s Val="-4360" Err="202" Min="202"/>
+							<s Val="-3990" Err="202" Min="202"/>
+							<s Val="-2983" Err="202" Min="202"/>
+							<s Val="-1799" Err="202" Min="202"/>
+							<s Val="-707" Err="202" Min="202"/>
+							<s Val="181" Err="202" Min="202"/>
+							<s Val="845" Err="202" Min="202"/>
+							<s Val="1309" Err="202" Min="202"/>
+							<s Val="1608" Err="202" Min="202"/>
+							<s Val="1779" Err="202" Min="202"/>
+							<s Val="1861" Err="202" Min="202"/>
+							<s Val="1886" Err="202" Min="202"/>
+						</t>
+					</t>
+					<t id="15" Pts="21" Trs="1" MaxErr="26308" NumSp="12" Code="16">
+						<t>
+							<s Val="925" Err="265" Min="265"/>
+							<s Val="925" Err="265" Min="265"/>
+							<s Val="929" Err="265" Min="265"/>
+							<s Val="935" Err="265" Min="265"/>
+							<s Val="940" Err="265" Min="265"/>
+							<s Val="931" Err="265" Min="265"/>
+							<s Val="185" Err="272" Min="265"/>
+							<s Val="-2700" Err="265" Min="265"/>
+							<s Val="-5407" Err="265" Min="265"/>
+							<s Val="-6233" Err="265" Min="265"/>
+							<s Val="-5528" Err="265" Min="265"/>
+							<s Val="-4047" Err="265" Min="265"/>
+							<s Val="-2382" Err="265" Min="265"/>
+							<s Val="-866" Err="265" Min="265"/>
+							<s Val="364" Err="265" Min="265"/>
+							<s Val="1285" Err="265" Min="265"/>
+							<s Val="1932" Err="265" Min="265"/>
+							<s Val="2361" Err="265" Min="265"/>
+							<s Val="2611" Err="265" Min="265"/>
+							<s Val="2737" Err="265" Min="265"/>
+							<s Val="2774" Err="265" Min="265"/>
+						</t>
+					</t>
+					<t id="16" Pts="21" Trs="1" MaxErr="1225" NumSp="149" Code="17">
+						<t>
+							<s Val="-9" Err="18" Min="8"/>
+							<s Val="-11" Err="17" Min="8"/>
+							<s Val="-12" Err="15" Min="8"/>
+							<s Val="-8" Err="16" Min="8"/>
+							<s Val="-1" Err="19" Min="8"/>
+							<s Val="9" Err="18" Min="8"/>
+							<s Val="27" Err="13" Min="8"/>
+							<s Val="57" Err="12" Min="10"/>
+							<s Val="92" Err="19" Min="11"/>
+							<s Val="105" Err="28" Min="10"/>
+							<s Val="72" Err="18" Min="8"/>
+							<s Val="20" Err="11" Min="8"/>
+							<s Val="-14" Err="17" Min="9"/>
+							<s Val="-33" Err="16" Min="10"/>
+							<s Val="-39" Err="17" Min="11"/>
+							<s Val="-38" Err="17" Min="11"/>
+							<s Val="-29" Err="17" Min="10"/>
+							<s Val="-22" Err="16" Min="9"/>
+							<s Val="-16" Err="15" Min="8"/>
+							<s Val="-10" Err="20" Min="9"/>
+							<s Val="-3" Err="22" Min="9"/>
+						</t>
+					</t>
+					<t id="17" Pts="21" Trs="1" MaxErr="121575" NumSp="38" Code="18">
+						<t>
+							<s Val="4383" Err="1328" Min="1328"/>
+							<s Val="4384" Err="1328" Min="1328"/>
+							<s Val="4384" Err="1328" Min="1328"/>
+							<s Val="4386" Err="1328" Min="1328"/>
+							<s Val="4385" Err="1328" Min="1328"/>
+							<s Val="4370" Err="1328" Min="1328"/>
+							<s Val="2349" Err="1328" Min="1328"/>
+							<s Val="-8527" Err="1330" Min="1328"/>
+							<s Val="-21941" Err="1328" Min="1328"/>
+							<s Val="-26975" Err="1328" Min="1328"/>
+							<s Val="-25936" Err="1328" Min="1328"/>
+							<s Val="-20848" Err="1380" Min="1328"/>
+							<s Val="-13579" Err="1328" Min="1328"/>
+							<s Val="-6308" Err="1328" Min="1328"/>
+							<s Val="-85" Err="1328" Min="1328"/>
+							<s Val="4713" Err="1328" Min="1328"/>
+							<s Val="8153" Err="1328" Min="1328"/>
+							<s Val="10453" Err="1328" Min="1328"/>
+							<s Val="11871" Err="1328" Min="1328"/>
+							<s Val="12640" Err="1328" Min="1328"/>
+							<s Val="12957" Err="1328" Min="1328"/>
+						</t>
+					</t>
+					<t id="18" Pts="21" Trs="1" MaxErr="2019" NumSp="5" Code="19">
+						<t>
+							<s Val="223" Err="20" Min="14"/>
+							<s Val="203" Err="16" Min="14"/>
+							<s Val="155" Err="21" Min="14"/>
+							<s Val="80" Err="19" Min="14"/>
+							<s Val="-7" Err="15" Min="14"/>
+							<s Val="-93" Err="14" Min="14"/>
+							<s Val="-169" Err="14" Min="14"/>
+							<s Val="-237" Err="16" Min="14"/>
+							<s Val="-277" Err="19" Min="14"/>
+							<s Val="-289" Err="16" Min="14"/>
+							<s Val="-276" Err="14" Min="14"/>
+							<s Val="-241" Err="14" Min="14"/>
+							<s Val="-196" Err="14" Min="14"/>
+							<s Val="-146" Err="16" Min="14"/>
+							<s Val="-91" Err="20" Min="14"/>
+							<s Val="-35" Err="22" Min="14"/>
+							<s Val="21" Err="17" Min="14"/>
+							<s Val="75" Err="14" Min="14"/>
+							<s Val="122" Err="14" Min="14"/>
+							<s Val="155" Err="20" Min="14"/>
+							<s Val="180" Err="23" Min="14"/>
+						</t>
+					</t>
+					<t id="19" Pts="21" Trs="1" MaxErr="1286" NumSp="25" Code="20">
+						<t>
+							<s Val="-77" Err="17" Min="8"/>
+							<s Val="-65" Err="13" Min="8"/>
+							<s Val="-47" Err="11" Min="8"/>
+							<s Val="-19" Err="11" Min="8"/>
+							<s Val="10" Err="11" Min="8"/>
+							<s Val="40" Err="13" Min="8"/>
+							<s Val="65" Err="11" Min="8"/>
+							<s Val="87" Err="12" Min="8"/>
+							<s Val="107" Err="15" Min="8"/>
+							<s Val="122" Err="13" Min="8"/>
+							<s Val="127" Err="15" Min="8"/>
+							<s Val="121" Err="13" Min="8"/>
+							<s Val="104" Err="10" Min="8"/>
+							<s Val="77" Err="12" Min="8"/>
+							<s Val="41" Err="14" Min="8"/>
+							<s Val="2" Err="12" Min="8"/>
+							<s Val="-33" Err="14" Min="8"/>
+							<s Val="-55" Err="15" Min="8"/>
+							<s Val="-65" Err="19" Min="8"/>
+							<s Val="-58" Err="21" Min="8"/>
+							<s Val="-49" Err="19" Min="8"/>
+						</t>
+					</t>
+					<t id="20" Pts="21" Trs="1" MaxErr="1043" NumSp="4" Code="21">
+						<t>
+							<s Val="-27" Err="14" Min="8"/>
+							<s Val="-36" Err="11" Min="8"/>
+							<s Val="-59" Err="8" Min="8"/>
+							<s Val="-87" Err="8" Min="8"/>
+							<s Val="-102" Err="11" Min="8"/>
+							<s Val="-67" Err="11" Min="8"/>
+							<s Val="2" Err="8" Min="8"/>
+							<s Val="55" Err="10" Min="8"/>
+							<s Val="84" Err="11" Min="8"/>
+							<s Val="89" Err="8" Min="8"/>
+							<s Val="81" Err="14" Min="8"/>
+							<s Val="63" Err="10" Min="8"/>
+							<s Val="49" Err="8" Min="8"/>
+							<s Val="33" Err="14" Min="8"/>
+							<s Val="16" Err="14" Min="8"/>
+							<s Val="4" Err="11" Min="8"/>
+							<s Err="8" Min="8"/>
+							<s Val="-3" Err="8" Min="8"/>
+							<s Val="-4" Err="8" Min="8"/>
+							<s Val="-6" Err="8" Min="8"/>
+							<s Val="-6" Err="8" Min="8"/>
+						</t>
+					</t>
+					<t id="21" Pts="21" Trs="1" MaxErr="71576" NumSp="4" Code="22">
+						<t>
+							<s Val="2354" Err="675" Min="675"/>
+							<s Val="2355" Err="675" Min="675"/>
+							<s Val="2359" Err="675" Min="675"/>
+							<s Val="2354" Err="675" Min="675"/>
+							<s Val="2354" Err="675" Min="675"/>
+							<s Val="2350" Err="675" Min="675"/>
+							<s Val="1077" Err="675" Min="675"/>
+							<s Val="-5966" Err="675" Min="675"/>
+							<s Val="-12785" Err="1111" Min="675"/>
+							<s Val="-15179" Err="1597" Min="675"/>
+							<s Val="-13822" Err="1654" Min="675"/>
+							<s Val="-10464" Err="1405" Min="675"/>
+							<s Val="-6475" Err="1044" Min="675"/>
+							<s Val="-2697" Err="675" Min="675"/>
+							<s Val="442" Err="675" Min="675"/>
+							<s Val="2835" Err="675" Min="675"/>
+							<s Val="4538" Err="675" Min="675"/>
+							<s Val="5678" Err="675" Min="675"/>
+							<s Val="6372" Err="752" Min="675"/>
+							<s Val="6742" Err="818" Min="675"/>
+							<s Val="6890" Err="844" Min="675"/>
+						</t>
+					</t>
+					<t id="22" Pts="21" Trs="1" MaxErr="1069" NumSp="12" Code="23">
+						<t>
+							<s Val="16" Err="12" Min="8"/>
+							<s Val="18" Err="12" Min="8"/>
+							<s Val="22" Err="13" Min="8"/>
+							<s Val="26" Err="9" Min="8"/>
+							<s Val="28" Err="8" Min="8"/>
+							<s Val="29" Err="11" Min="8"/>
+							<s Val="32" Err="14" Min="8"/>
+							<s Val="49" Err="16" Min="8"/>
+							<s Val="79" Err="12" Min="8"/>
+							<s Val="103" Err="10" Min="8"/>
+							<s Val="84" Err="10" Min="8"/>
+							<s Val="21" Err="9" Min="8"/>
+							<s Val="-37" Err="8" Min="8"/>
+							<s Val="-70" Err="8" Min="8"/>
+							<s Val="-85" Err="9" Min="8"/>
+							<s Val="-80" Err="9" Min="8"/>
+							<s Val="-67" Err="9" Min="8"/>
+							<s Val="-49" Err="9" Min="8"/>
+							<s Val="-34" Err="10" Min="8"/>
+							<s Val="-22" Err="13" Min="8"/>
+							<s Val="-16" Err="15" Min="8"/>
+						</t>
+					</t>
+				</Ch1>
+				<Ch0 id="0" NumTmpl="1" NumPts="24" NumTrace="1" TrigOff="5" Int="4.9999999999999996e-5" PropIn="0.6" RemDC="0" TrackNum="64" AmpErr="0.3199920654296875" Decay="50" TimeC="10" Flags="9" YTop="505" CWPre="7" CWPts="28">
+					<e TrLow="-191" TrHi="163" LimLow="-802" LimHi="802"/>
+					<t id="0" Pts="24" Trs="1" MaxErr="3251" NumSp="1" Code="1">
+						<t>
+							<s Val="97" Err="63" Min="63"/>
+							<s Val="142" Err="63" Min="63"/>
+							<s Val="224" Err="63" Min="63"/>
+							<s Val="294" Err="63" Min="63"/>
+							<s Val="352" Err="63" Min="63"/>
+							<s Val="378" Err="63" Min="63"/>
+							<s Val="369" Err="63" Min="63"/>
+							<s Val="319" Err="63" Min="63"/>
+							<s Val="214" Err="63" Min="63"/>
+							<s Val="79" Err="63" Min="63"/>
+							<s Val="-58" Err="63" Min="63"/>
+							<s Val="-186" Err="63" Min="63"/>
+							<s Val="-293" Err="63" Min="63"/>
+							<s Val="-371" Err="63" Min="63"/>
+							<s Val="-411" Err="63" Min="63"/>
+							<s Val="-400" Err="63" Min="63"/>
+							<s Val="-376" Err="63" Min="63"/>
+							<s Val="-325" Err="63" Min="63"/>
+							<s Val="-264" Err="63" Min="63"/>
+							<s Val="-204" Err="63" Min="63"/>
+							<s Val="-147" Err="63" Min="63"/>
+							<s Val="-94" Err="63" Min="63"/>
+							<s Val="-52" Err="63" Min="63"/>
+							<s Val="-23" Err="63" Min="63"/>
+						</t>
+					</t>
+				</Ch0>
+				<Ch5 id="5" NumTmpl="1" NumPts="24" NumTrace="1" TrigOff="5" Int="4.9999999999999996e-5" PropIn="0.6" RemDC="0" TrackNum="64" AmpErr="0.3199920654296875" Decay="50" TimeC="10" Flags="9" YTop="1004" CWPre="7" CWPts="28">
+					<e TrLow="-278" TrHi="210" LimLow="-802" LimHi="802"/>
+					<t id="0" Pts="24" Trs="1" MaxErr="3251" NumSp="1" Code="1">
+						<t>
+							<s Val="97" Err="63" Min="63"/>
+							<s Val="142" Err="63" Min="63"/>
+							<s Val="224" Err="63" Min="63"/>
+							<s Val="294" Err="63" Min="63"/>
+							<s Val="352" Err="63" Min="63"/>
+							<s Val="378" Err="63" Min="63"/>
+							<s Val="369" Err="63" Min="63"/>
+							<s Val="319" Err="63" Min="63"/>
+							<s Val="214" Err="63" Min="63"/>
+							<s Val="79" Err="63" Min="63"/>
+							<s Val="-58" Err="63" Min="63"/>
+							<s Val="-186" Err="63" Min="63"/>
+							<s Val="-293" Err="63" Min="63"/>
+							<s Val="-371" Err="63" Min="63"/>
+							<s Val="-411" Err="63" Min="63"/>
+							<s Val="-400" Err="63" Min="63"/>
+							<s Val="-376" Err="63" Min="63"/>
+							<s Val="-325" Err="63" Min="63"/>
+							<s Val="-264" Err="63" Min="63"/>
+							<s Val="-204" Err="63" Min="63"/>
+							<s Val="-147" Err="63" Min="63"/>
+							<s Val="-94" Err="63" Min="63"/>
+							<s Val="-52" Err="63" Min="63"/>
+							<s Val="-23" Err="63" Min="63"/>
+						</t>
+					</t>
+				</Ch5>
+				<Ch6 id="6" NumTmpl="1" NumPts="24" NumTrace="1" TrigOff="5" Int="4.9999999999999996e-5" PropIn="0.6" RemDC="0" TrackNum="64" AmpErr="0.3199920654296875" Decay="50" TimeC="10" Flags="9" YTop="505" CWPre="7" CWPts="28">
+					<e TrLow="-191" TrHi="163" LimLow="-802" LimHi="802"/>
+					<t id="0" Pts="24" Trs="1" MaxErr="3251" NumSp="1" Code="1">
+						<t>
+							<s Val="97" Err="63" Min="63"/>
+							<s Val="142" Err="63" Min="63"/>
+							<s Val="224" Err="63" Min="63"/>
+							<s Val="294" Err="63" Min="63"/>
+							<s Val="352" Err="63" Min="63"/>
+							<s Val="378" Err="63" Min="63"/>
+							<s Val="369" Err="63" Min="63"/>
+							<s Val="319" Err="63" Min="63"/>
+							<s Val="214" Err="63" Min="63"/>
+							<s Val="79" Err="63" Min="63"/>
+							<s Val="-58" Err="63" Min="63"/>
+							<s Val="-186" Err="63" Min="63"/>
+							<s Val="-293" Err="63" Min="63"/>
+							<s Val="-371" Err="63" Min="63"/>
+							<s Val="-411" Err="63" Min="63"/>
+							<s Val="-400" Err="63" Min="63"/>
+							<s Val="-376" Err="63" Min="63"/>
+							<s Val="-325" Err="63" Min="63"/>
+							<s Val="-264" Err="63" Min="63"/>
+							<s Val="-204" Err="63" Min="63"/>
+							<s Val="-147" Err="63" Min="63"/>
+							<s Val="-94" Err="63" Min="63"/>
+							<s Val="-52" Err="63" Min="63"/>
+							<s Val="-23" Err="63" Min="63"/>
+						</t>
+					</t>
+				</Ch6>
+			</TempOffline>
+			<TempOnline>
+				<Ch1 id="1" NumTmpl="23" NumPts="21" NumTrace="1" TrigOff="9" Int="4.9999999999999996e-5" PropIn="0.5" TrackNum="64" MaxAmpCh="15" AmpErr="0.0999908447265625" Decay="60" NumNew="3" TimeC="9" Flags="8" YTop="403" CWPre="28" CWPts="84">
+					<e TrLow="-104" TrHi="94" LimLow="-32768" LimHi="32767"/>
+					<t id="0" Pts="21" Trs="1" MaxErr="1585" NumSp="219" Code="1">
+						<t>
+							<s Val="10" Err="26" Min="8"/>
+							<s Val="15" Err="32" Min="8"/>
+							<s Val="11" Err="26" Min="8"/>
+							<s Val="15" Err="31" Min="8"/>
+							<s Val="12" Err="27" Min="8"/>
+							<s Val="7" Err="25" Min="8"/>
+							<s Val="-5" Err="24" Min="8"/>
+							<s Val="-39" Err="23" Min="8"/>
+							<s Val="-74" Err="25" Min="8"/>
+							<s Val="-103" Err="22" Min="8"/>
+							<s Val="-83" Err="26" Min="8"/>
+							<s Val="-28" Err="24" Min="8"/>
+							<s Val="32" Err="22" Min="8"/>
+							<s Val="63" Err="32" Min="8"/>
+							<s Val="75" Err="27" Min="8"/>
+							<s Val="64" Err="28" Min="8"/>
+							<s Val="56" Err="20" Min="8"/>
+							<s Val="40" Err="23" Min="8"/>
+							<s Val="34" Err="23" Min="8"/>
+							<s Val="17" Err="22" Min="8"/>
+							<s Val="19" Err="22" Min="8"/>
+						</t>
+					</t>
+					<t id="1" Pts="21" Trs="1" MaxErr="999" NumSp="306" Code="2">
+						<t>
+							<s Val="-35" Err="13" Min="8"/>
+							<s Val="-26" Err="13" Min="8"/>
+							<s Val="-18" Err="13" Min="8"/>
+							<s Val="-3" Err="13" Min="8"/>
+							<s Val="10" Err="15" Min="8"/>
+							<s Val="23" Err="12" Min="8"/>
+							<s Val="38" Err="14" Min="8"/>
+							<s Val="48" Err="11" Min="8"/>
+							<s Val="55" Err="13" Min="8"/>
+							<s Val="53" Err="10" Min="8"/>
+							<s Val="54" Err="13" Min="8"/>
+							<s Val="43" Err="8" Min="8"/>
+							<s Val="37" Err="10" Min="8"/>
+							<s Val="28" Err="10" Min="8"/>
+							<s Val="23" Err="16" Min="8"/>
+							<s Val="14" Err="15" Min="8"/>
+							<s Val="6" Err="18" Min="8"/>
+							<s Val="-4" Err="15" Min="8"/>
+							<s Val="-13" Err="13" Min="8"/>
+							<s Val="-20" Err="12" Min="8"/>
+							<s Val="-25" Err="18" Min="8"/>
+						</t>
+					</t>
+					<t id="2" Pts="21" Trs="1" MaxErr="1092" NumSp="396" Code="3">
+						<t>
+							<s Err="24" Min="8"/>
+							<s Val="4" Err="19" Min="8"/>
+							<s Val="11" Err="19" Min="8"/>
+							<s Val="16" Err="19" Min="8"/>
+							<s Val="24" Err="15" Min="8"/>
+							<s Val="34" Err="14" Min="8"/>
+							<s Val="46" Err="17" Min="8"/>
+							<s Val="55" Err="18" Min="8"/>
+							<s Val="61" Err="16" Min="8"/>
+							<s Val="65" Err="16" Min="8"/>
+							<s Val="60" Err="13" Min="8"/>
+							<s Val="52" Err="12" Min="8"/>
+							<s Val="33" Err="8" Min="8"/>
+							<s Val="19" Err="10" Min="8"/>
+							<s Val="2" Err="12" Min="8"/>
+							<s Val="-13" Err="12" Min="8"/>
+							<s Val="-26" Err="12" Min="8"/>
+							<s Val="-40" Err="13" Min="8"/>
+							<s Val="-50" Err="12" Min="8"/>
+							<s Val="-54" Err="15" Min="8"/>
+							<s Val="-56" Err="17" Min="8"/>
+						</t>
+					</t>
+					<t id="3" Pts="21" Trs="1" MaxErr="1169" NumSp="366" Code="4">
+						<t>
+							<s Val="15" Err="19" Min="8"/>
+							<s Val="6" Err="18" Min="8"/>
+							<s Val="-1" Err="19" Min="8"/>
+							<s Val="-14" Err="16" Min="8"/>
+							<s Val="-23" Err="14" Min="8"/>
+							<s Val="-35" Err="13" Min="8"/>
+							<s Val="-42" Err="19" Min="8"/>
+							<s Val="-52" Err="13" Min="8"/>
+							<s Val="-51" Err="20" Min="8"/>
+							<s Val="-53" Err="19" Min="8"/>
+							<s Val="-45" Err="21" Min="8"/>
+							<s Val="-38" Err="16" Min="8"/>
+							<s Val="-20" Err="15" Min="8"/>
+							<s Val="-4" Err="16" Min="8"/>
+							<s Val="14" Err="16" Min="8"/>
+							<s Val="28" Err="14" Min="8"/>
+							<s Val="40" Err="14" Min="8"/>
+							<s Val="48" Err="15" Min="8"/>
+							<s Val="55" Err="18" Min="8"/>
+							<s Val="59" Err="19" Min="8"/>
+							<s Val="61" Err="24" Min="8"/>
+						</t>
+					</t>
+					<t id="4" Pts="21" Trs="1" MaxErr="1100" NumSp="285" Code="5">
+						<t>
+							<s Val="46" Err="22" Min="8"/>
+							<s Val="37" Err="17" Min="8"/>
+							<s Val="37" Err="15" Min="8"/>
+							<s Val="29" Err="18" Min="8"/>
+							<s Val="23" Err="16" Min="8"/>
+							<s Val="9" Err="19" Min="8"/>
+							<s Val="-2" Err="18" Min="8"/>
+							<s Val="-18" Err="15" Min="8"/>
+							<s Val="-23" Err="19" Min="8"/>
+							<s Val="-40" Err="15" Min="8"/>
+							<s Val="-41" Err="17" Min="8"/>
+							<s Val="-41" Err="15" Min="8"/>
+							<s Val="-28" Err="15" Min="8"/>
+							<s Val="-23" Err="12" Min="8"/>
+							<s Val="-10" Err="13" Min="8"/>
+							<s Val="-7" Err="13" Min="8"/>
+							<s Val="4" Err="15" Min="8"/>
+							<s Val="8" Err="19" Min="8"/>
+							<s Val="13" Err="19" Min="8"/>
+							<s Val="11" Err="19" Min="8"/>
+							<s Val="15" Err="20" Min="8"/>
+						</t>
+					</t>
+					<t id="5" Pts="21" Trs="1" MaxErr="1040" NumSp="711" Code="6">
+						<t>
+							<s Val="-8" Err="25" Min="8"/>
+							<s Val="-2" Err="19" Min="8"/>
+							<s Err="15" Min="9"/>
+							<s Val="6" Err="13" Min="10"/>
+							<s Val="11" Err="12" Min="9"/>
+							<s Val="18" Err="13" Min="8"/>
+							<s Val="24" Err="13" Min="9"/>
+							<s Val="35" Err="17" Min="11"/>
+							<s Val="37" Err="15" Min="11"/>
+							<s Val="38" Err="13" Min="9"/>
+							<s Val="31" Err="14" Min="10"/>
+							<s Val="22" Err="12" Min="11"/>
+							<s Val="11" Err="15" Min="10"/>
+							<s Val="8" Err="15" Min="8"/>
+							<s Val="3" Err="19" Min="9"/>
+							<s Val="-2" Err="20" Min="11"/>
+							<s Val="-4" Err="20" Min="11"/>
+							<s Val="-5" Err="21" Min="12"/>
+							<s Val="-8" Err="19" Min="13"/>
+							<s Val="-8" Err="19" Min="12"/>
+							<s Val="-14" Err="19" Min="10"/>
+						</t>
+					</t>
+					<t id="6" Pts="21" Trs="1" MaxErr="1089" NumSp="240" Code="7">
+						<t>
+							<s Val="-4" Err="20" Min="8"/>
+							<s Val="-8" Err="20" Min="8"/>
+							<s Val="-5" Err="15" Min="8"/>
+							<s Val="-10" Err="15" Min="8"/>
+							<s Val="2" Err="16" Min="8"/>
+							<s Err="21" Min="8"/>
+							<s Val="17" Err="17" Min="8"/>
+							<s Val="20" Err="17" Min="8"/>
+							<s Val="45" Err="22" Min="8"/>
+							<s Val="31" Err="18" Min="8"/>
+							<s Val="30" Err="13" Min="8"/>
+							<s Val="14" Err="19" Min="8"/>
+							<s Val="12" Err="17" Min="8"/>
+							<s Val="-2" Err="15" Min="8"/>
+							<s Val="1" Err="16" Min="8"/>
+							<s Val="-5" Err="16" Min="8"/>
+							<s Val="1" Err="14" Min="8"/>
+							<s Err="18" Min="8"/>
+							<s Val="6" Err="14" Min="8"/>
+							<s Val="5" Err="22" Min="8"/>
+							<s Val="11" Err="22" Min="8"/>
+						</t>
+					</t>
+					<t id="7" Pts="21" Trs="1" MaxErr="1104" NumSp="325" Code="8">
+						<t>
+							<s Val="16" Err="16" Min="8"/>
+							<s Val="10" Err="16" Min="9"/>
+							<s Val="8" Err="14" Min="8"/>
+							<s Val="2" Err="16" Min="8"/>
+							<s Val="3" Err="16" Min="8"/>
+							<s Val="-2" Err="15" Min="8"/>
+							<s Val="-6" Err="21" Min="8"/>
+							<s Val="-17" Err="26" Min="9"/>
+							<s Val="-26" Err="24" Min="8"/>
+							<s Val="-35" Err="29" Min="9"/>
+							<s Val="-34" Err="18" Min="8"/>
+							<s Val="-30" Err="21" Min="8"/>
+							<s Val="-17" Err="15" Min="8"/>
+							<s Val="-6" Err="13" Min="8"/>
+							<s Val="11" Err="17" Min="8"/>
+							<s Val="18" Err="18" Min="8"/>
+							<s Val="28" Err="13" Min="8"/>
+							<s Val="29" Err="16" Min="8"/>
+							<s Val="26" Err="13" Min="8"/>
+							<s Val="23" Err="16" Min="8"/>
+							<s Val="24" Err="17" Min="8"/>
+						</t>
+					</t>
+					<t id="8" Pts="21" Trs="1" MaxErr="1173" NumSp="89" Code="9">
+						<t>
+							<s Val="19" Err="18" Min="8"/>
+							<s Val="8" Err="18" Min="8"/>
+							<s Val="16" Err="14" Min="8"/>
+							<s Val="3" Err="14" Min="8"/>
+							<s Val="12" Err="18" Min="8"/>
+							<s Val="-5" Err="15" Min="8"/>
+							<s Val="4" Err="19" Min="8"/>
+							<s Val="-21" Err="15" Min="8"/>
+							<s Val="-15" Err="17" Min="8"/>
+							<s Val="-30" Err="25" Min="8"/>
+							<s Val="-8" Err="17" Min="8"/>
+							<s Val="-14" Err="18" Min="8"/>
+							<s Val="8" Err="19" Min="8"/>
+							<s Val="-3" Err="18" Min="8"/>
+							<s Val="13" Err="21" Min="8"/>
+							<s Val="-5" Err="14" Min="8"/>
+							<s Val="9" Err="17" Min="8"/>
+							<s Val="-1" Err="15" Min="8"/>
+							<s Val="15" Err="18" Min="8"/>
+							<s Val="14" Err="23" Min="8"/>
+							<s Val="24" Err="21" Min="8"/>
+						</t>
+					</t>
+					<t id="9" Pts="21" Trs="1" MaxErr="1001" NumSp="88" Code="10">
+						<t>
+							<s Val="35" Err="8" Min="8"/>
+							<s Val="32" Err="8" Min="8"/>
+							<s Val="26" Err="8" Min="8"/>
+							<s Val="21" Err="8" Min="8"/>
+							<s Val="13" Err="9" Min="8"/>
+							<s Val="-5" Err="8" Min="8"/>
+							<s Val="-42" Err="8" Min="8"/>
+							<s Val="-82" Err="8" Min="8"/>
+							<s Val="-103" Err="8" Min="8"/>
+							<s Val="-111" Err="8" Min="8"/>
+							<s Val="-108" Err="8" Min="8"/>
+							<s Val="-94" Err="8" Min="8"/>
+							<s Val="-76" Err="8" Min="8"/>
+							<s Val="-54" Err="8" Min="8"/>
+							<s Val="-29" Err="8" Min="8"/>
+							<s Val="-6" Err="8" Min="8"/>
+							<s Val="18" Err="8" Min="8"/>
+							<s Val="39" Err="8" Min="8"/>
+							<s Val="61" Err="8" Min="8"/>
+							<s Val="79" Err="8" Min="8"/>
+							<s Val="97" Err="8" Min="8"/>
+						</t>
+					</t>
+					<t id="10" Pts="21" Trs="1" MaxErr="1076" NumSp="49" Code="11">
+						<t>
+							<s Val="-33" Err="12" Min="8"/>
+							<s Val="-25" Err="11" Min="8"/>
+							<s Val="-20" Err="8" Min="8"/>
+							<s Val="-8" Err="9" Min="8"/>
+							<s Val="1" Err="11" Min="8"/>
+							<s Val="33" Err="10" Min="8"/>
+							<s Val="68" Err="8" Min="8"/>
+							<s Val="100" Err="8" Min="8"/>
+							<s Val="111" Err="8" Min="8"/>
+							<s Val="112" Err="9" Min="8"/>
+							<s Val="104" Err="13" Min="8"/>
+							<s Val="88" Err="12" Min="8"/>
+							<s Val="66" Err="10" Min="8"/>
+							<s Val="42" Err="10" Min="8"/>
+							<s Val="16" Err="9" Min="8"/>
+							<s Val="-4" Err="8" Min="8"/>
+							<s Val="-29" Err="8" Min="8"/>
+							<s Val="-45" Err="10" Min="8"/>
+							<s Val="-65" Err="10" Min="8"/>
+							<s Val="-78" Err="12" Min="8"/>
+							<s Val="-94" Err="15" Min="8"/>
+						</t>
+					</t>
+					<t id="11" Pts="21" Trs="1" MaxErr="1418" NumSp="241" Code="12">
+						<t>
+							<s Val="-71" Err="31" Min="8"/>
+							<s Val="-71" Err="22" Min="8"/>
+							<s Val="-67" Err="17" Min="8"/>
+							<s Val="-47" Err="14" Min="8"/>
+							<s Val="-22" Err="15" Min="8"/>
+							<s Val="18" Err="15" Min="8"/>
+							<s Val="54" Err="15" Min="8"/>
+							<s Val="98" Err="19" Min="8"/>
+							<s Val="122" Err="20" Min="8"/>
+							<s Val="139" Err="16" Min="8"/>
+							<s Val="138" Err="15" Min="8"/>
+							<s Val="132" Err="15" Min="8"/>
+							<s Val="105" Err="13" Min="8"/>
+							<s Val="74" Err="11" Min="8"/>
+							<s Val="40" Err="15" Min="8"/>
+							<s Val="8" Err="16" Min="8"/>
+							<s Val="-23" Err="19" Min="8"/>
+							<s Val="-32" Err="22" Min="8"/>
+							<s Val="-37" Err="23" Min="8"/>
+							<s Val="-30" Err="22" Min="8"/>
+							<s Val="-30" Err="24" Min="8"/>
+						</t>
+					</t>
+					<t id="12" Pts="21" Trs="1" MaxErr="2061" NumSp="154" Code="13">
+						<t>
+							<s Val="-1" Err="29" Min="8"/>
+							<s Val="42" Err="31" Min="8"/>
+							<s Val="-7" Err="25" Min="8"/>
+							<s Val="39" Err="29" Min="8"/>
+							<s Val="-16" Err="26" Min="8"/>
+							<s Val="32" Err="24" Min="8"/>
+							<s Val="-22" Err="26" Min="8"/>
+							<s Val="49" Err="27" Min="8"/>
+							<s Val="23" Err="32" Min="8"/>
+							<s Val="93" Err="31" Min="8"/>
+							<s Val="27" Err="32" Min="8"/>
+							<s Val="52" Err="26" Min="8"/>
+							<s Val="-22" Err="32" Min="8"/>
+							<s Val="21" Err="32" Min="8"/>
+							<s Val="-46" Err="24" Min="8"/>
+							<s Val="7" Err="32" Min="8"/>
+							<s Val="-48" Err="18" Min="8"/>
+							<s Val="9" Err="27" Min="8"/>
+							<s Val="-38" Err="21" Min="8"/>
+							<s Val="16" Err="28" Min="8"/>
+							<s Val="-30" Err="29" Min="8"/>
+						</t>
+					</t>
+					<t id="13" Pts="21" Trs="1" MaxErr="1916" NumSp="33" Code="14">
+						<t>
+							<s Val="-26" Err="20" Min="8"/>
+							<s Val="24" Err="23" Min="8"/>
+							<s Val="-37" Err="20" Min="8"/>
+							<s Val="18" Err="18" Min="8"/>
+							<s Val="-42" Err="22" Min="8"/>
+							<s Val="24" Err="16" Min="8"/>
+							<s Val="-36" Err="15" Min="8"/>
+							<s Val="40" Err="19" Min="8"/>
+							<s Val="-14" Err="23" Min="8"/>
+							<s Val="66" Err="19" Min="8"/>
+							<s Val="-7" Err="17" Min="8"/>
+							<s Val="56" Err="20" Min="8"/>
+							<s Val="-18" Err="18" Min="8"/>
+							<s Val="53" Err="17" Min="8"/>
+							<s Val="-16" Err="21" Min="8"/>
+							<s Val="51" Err="19" Min="8"/>
+							<s Val="-19" Err="21" Min="8"/>
+							<s Val="46" Err="18" Min="8"/>
+							<s Val="-20" Err="18" Min="8"/>
+							<s Val="40" Err="19" Min="8"/>
+							<s Val="-34" Err="19" Min="8"/>
+						</t>
+					</t>
+					<t id="14" Pts="21" Trs="1" MaxErr="19006" NumSp="13" Code="15">
+						<t>
+							<s Val="648" Err="202" Min="202"/>
+							<s Val="647" Err="202" Min="202"/>
+							<s Val="648" Err="202" Min="202"/>
+							<s Val="647" Err="202" Min="202"/>
+							<s Val="649" Err="202" Min="202"/>
+							<s Val="648" Err="202" Min="202"/>
+							<s Val="362" Err="202" Min="202"/>
+							<s Val="-1410" Err="205" Min="202"/>
+							<s Val="-3526" Err="202" Min="202"/>
+							<s Val="-4360" Err="202" Min="202"/>
+							<s Val="-3990" Err="202" Min="202"/>
+							<s Val="-2983" Err="202" Min="202"/>
+							<s Val="-1799" Err="202" Min="202"/>
+							<s Val="-707" Err="202" Min="202"/>
+							<s Val="181" Err="202" Min="202"/>
+							<s Val="845" Err="202" Min="202"/>
+							<s Val="1309" Err="202" Min="202"/>
+							<s Val="1608" Err="202" Min="202"/>
+							<s Val="1779" Err="202" Min="202"/>
+							<s Val="1861" Err="202" Min="202"/>
+							<s Val="1886" Err="202" Min="202"/>
+						</t>
+					</t>
+					<t id="15" Pts="21" Trs="1" MaxErr="26308" NumSp="12" Code="16">
+						<t>
+							<s Val="925" Err="265" Min="265"/>
+							<s Val="925" Err="265" Min="265"/>
+							<s Val="929" Err="265" Min="265"/>
+							<s Val="935" Err="265" Min="265"/>
+							<s Val="940" Err="265" Min="265"/>
+							<s Val="931" Err="265" Min="265"/>
+							<s Val="185" Err="272" Min="265"/>
+							<s Val="-2700" Err="265" Min="265"/>
+							<s Val="-5407" Err="265" Min="265"/>
+							<s Val="-6233" Err="265" Min="265"/>
+							<s Val="-5528" Err="265" Min="265"/>
+							<s Val="-4047" Err="265" Min="265"/>
+							<s Val="-2382" Err="265" Min="265"/>
+							<s Val="-866" Err="265" Min="265"/>
+							<s Val="364" Err="265" Min="265"/>
+							<s Val="1285" Err="265" Min="265"/>
+							<s Val="1932" Err="265" Min="265"/>
+							<s Val="2361" Err="265" Min="265"/>
+							<s Val="2611" Err="265" Min="265"/>
+							<s Val="2737" Err="265" Min="265"/>
+							<s Val="2774" Err="265" Min="265"/>
+						</t>
+					</t>
+					<t id="16" Pts="21" Trs="1" MaxErr="1225" NumSp="149" Code="17">
+						<t>
+							<s Val="-9" Err="18" Min="8"/>
+							<s Val="-11" Err="17" Min="8"/>
+							<s Val="-12" Err="15" Min="8"/>
+							<s Val="-8" Err="16" Min="8"/>
+							<s Val="-1" Err="19" Min="8"/>
+							<s Val="9" Err="18" Min="8"/>
+							<s Val="27" Err="13" Min="8"/>
+							<s Val="57" Err="12" Min="10"/>
+							<s Val="92" Err="19" Min="11"/>
+							<s Val="105" Err="28" Min="10"/>
+							<s Val="72" Err="18" Min="8"/>
+							<s Val="20" Err="11" Min="8"/>
+							<s Val="-14" Err="17" Min="9"/>
+							<s Val="-33" Err="16" Min="10"/>
+							<s Val="-39" Err="17" Min="11"/>
+							<s Val="-38" Err="17" Min="11"/>
+							<s Val="-29" Err="17" Min="10"/>
+							<s Val="-22" Err="16" Min="9"/>
+							<s Val="-16" Err="15" Min="8"/>
+							<s Val="-10" Err="20" Min="9"/>
+							<s Val="-3" Err="22" Min="9"/>
+						</t>
+					</t>
+					<t id="17" Pts="21" Trs="1" MaxErr="121575" NumSp="38" Code="18">
+						<t>
+							<s Val="4383" Err="1328" Min="1328"/>
+							<s Val="4384" Err="1328" Min="1328"/>
+							<s Val="4384" Err="1328" Min="1328"/>
+							<s Val="4386" Err="1328" Min="1328"/>
+							<s Val="4385" Err="1328" Min="1328"/>
+							<s Val="4370" Err="1328" Min="1328"/>
+							<s Val="2349" Err="1328" Min="1328"/>
+							<s Val="-8527" Err="1330" Min="1328"/>
+							<s Val="-21941" Err="1328" Min="1328"/>
+							<s Val="-26975" Err="1328" Min="1328"/>
+							<s Val="-25936" Err="1328" Min="1328"/>
+							<s Val="-20848" Err="1380" Min="1328"/>
+							<s Val="-13579" Err="1328" Min="1328"/>
+							<s Val="-6308" Err="1328" Min="1328"/>
+							<s Val="-85" Err="1328" Min="1328"/>
+							<s Val="4713" Err="1328" Min="1328"/>
+							<s Val="8153" Err="1328" Min="1328"/>
+							<s Val="10453" Err="1328" Min="1328"/>
+							<s Val="11871" Err="1328" Min="1328"/>
+							<s Val="12640" Err="1328" Min="1328"/>
+							<s Val="12957" Err="1328" Min="1328"/>
+						</t>
+					</t>
+					<t id="18" Pts="21" Trs="1" MaxErr="2019" NumSp="5" Code="19">
+						<t>
+							<s Val="223" Err="20" Min="14"/>
+							<s Val="203" Err="16" Min="14"/>
+							<s Val="155" Err="21" Min="14"/>
+							<s Val="80" Err="19" Min="14"/>
+							<s Val="-7" Err="15" Min="14"/>
+							<s Val="-93" Err="14" Min="14"/>
+							<s Val="-169" Err="14" Min="14"/>
+							<s Val="-237" Err="16" Min="14"/>
+							<s Val="-277" Err="19" Min="14"/>
+							<s Val="-289" Err="16" Min="14"/>
+							<s Val="-276" Err="14" Min="14"/>
+							<s Val="-241" Err="14" Min="14"/>
+							<s Val="-196" Err="14" Min="14"/>
+							<s Val="-146" Err="16" Min="14"/>
+							<s Val="-91" Err="20" Min="14"/>
+							<s Val="-35" Err="22" Min="14"/>
+							<s Val="21" Err="17" Min="14"/>
+							<s Val="75" Err="14" Min="14"/>
+							<s Val="122" Err="14" Min="14"/>
+							<s Val="155" Err="20" Min="14"/>
+							<s Val="180" Err="23" Min="14"/>
+						</t>
+					</t>
+					<t id="19" Pts="21" Trs="1" MaxErr="1286" NumSp="25" Code="20">
+						<t>
+							<s Val="-77" Err="17" Min="8"/>
+							<s Val="-65" Err="13" Min="8"/>
+							<s Val="-47" Err="11" Min="8"/>
+							<s Val="-19" Err="11" Min="8"/>
+							<s Val="10" Err="11" Min="8"/>
+							<s Val="40" Err="13" Min="8"/>
+							<s Val="65" Err="11" Min="8"/>
+							<s Val="87" Err="12" Min="8"/>
+							<s Val="107" Err="15" Min="8"/>
+							<s Val="122" Err="13" Min="8"/>
+							<s Val="127" Err="15" Min="8"/>
+							<s Val="121" Err="13" Min="8"/>
+							<s Val="104" Err="10" Min="8"/>
+							<s Val="77" Err="12" Min="8"/>
+							<s Val="41" Err="14" Min="8"/>
+							<s Val="2" Err="12" Min="8"/>
+							<s Val="-33" Err="14" Min="8"/>
+							<s Val="-55" Err="15" Min="8"/>
+							<s Val="-65" Err="19" Min="8"/>
+							<s Val="-58" Err="21" Min="8"/>
+							<s Val="-49" Err="19" Min="8"/>
+						</t>
+					</t>
+					<t id="20" Pts="21" Trs="1" MaxErr="1043" NumSp="4" Code="21">
+						<t>
+							<s Val="-27" Err="14" Min="8"/>
+							<s Val="-36" Err="11" Min="8"/>
+							<s Val="-59" Err="8" Min="8"/>
+							<s Val="-87" Err="8" Min="8"/>
+							<s Val="-102" Err="11" Min="8"/>
+							<s Val="-67" Err="11" Min="8"/>
+							<s Val="2" Err="8" Min="8"/>
+							<s Val="55" Err="10" Min="8"/>
+							<s Val="84" Err="11" Min="8"/>
+							<s Val="89" Err="8" Min="8"/>
+							<s Val="81" Err="14" Min="8"/>
+							<s Val="63" Err="10" Min="8"/>
+							<s Val="49" Err="8" Min="8"/>
+							<s Val="33" Err="14" Min="8"/>
+							<s Val="16" Err="14" Min="8"/>
+							<s Val="4" Err="11" Min="8"/>
+							<s Err="8" Min="8"/>
+							<s Val="-3" Err="8" Min="8"/>
+							<s Val="-4" Err="8" Min="8"/>
+							<s Val="-6" Err="8" Min="8"/>
+							<s Val="-6" Err="8" Min="8"/>
+						</t>
+					</t>
+					<t id="21" Pts="21" Trs="1" MaxErr="71576" NumSp="4" Code="22">
+						<t>
+							<s Val="2354" Err="675" Min="675"/>
+							<s Val="2355" Err="675" Min="675"/>
+							<s Val="2359" Err="675" Min="675"/>
+							<s Val="2354" Err="675" Min="675"/>
+							<s Val="2354" Err="675" Min="675"/>
+							<s Val="2350" Err="675" Min="675"/>
+							<s Val="1077" Err="675" Min="675"/>
+							<s Val="-5966" Err="675" Min="675"/>
+							<s Val="-12785" Err="1111" Min="675"/>
+							<s Val="-15179" Err="1597" Min="675"/>
+							<s Val="-13822" Err="1654" Min="675"/>
+							<s Val="-10464" Err="1405" Min="675"/>
+							<s Val="-6475" Err="1044" Min="675"/>
+							<s Val="-2697" Err="675" Min="675"/>
+							<s Val="442" Err="675" Min="675"/>
+							<s Val="2835" Err="675" Min="675"/>
+							<s Val="4538" Err="675" Min="675"/>
+							<s Val="5678" Err="675" Min="675"/>
+							<s Val="6372" Err="752" Min="675"/>
+							<s Val="6742" Err="818" Min="675"/>
+							<s Val="6890" Err="844" Min="675"/>
+						</t>
+					</t>
+					<t id="22" Pts="21" Trs="1" MaxErr="1069" NumSp="12" Code="23">
+						<t>
+							<s Val="16" Err="12" Min="8"/>
+							<s Val="18" Err="12" Min="8"/>
+							<s Val="22" Err="13" Min="8"/>
+							<s Val="26" Err="9" Min="8"/>
+							<s Val="28" Err="8" Min="8"/>
+							<s Val="29" Err="11" Min="8"/>
+							<s Val="32" Err="14" Min="8"/>
+							<s Val="49" Err="16" Min="8"/>
+							<s Val="79" Err="12" Min="8"/>
+							<s Val="103" Err="10" Min="8"/>
+							<s Val="84" Err="10" Min="8"/>
+							<s Val="21" Err="9" Min="8"/>
+							<s Val="-37" Err="8" Min="8"/>
+							<s Val="-70" Err="8" Min="8"/>
+							<s Val="-85" Err="9" Min="8"/>
+							<s Val="-80" Err="9" Min="8"/>
+							<s Val="-67" Err="9" Min="8"/>
+							<s Val="-49" Err="9" Min="8"/>
+							<s Val="-34" Err="10" Min="8"/>
+							<s Val="-22" Err="13" Min="8"/>
+							<s Val="-16" Err="15" Min="8"/>
+						</t>
+					</t>
+				</Ch1>
+			</TempOnline>
+		</Templates>
+		<MarkFilt Chan="5">
+			<l id="0" i0="2" i1="0" i2="0" i3="0" i4="0" i5="0" i6="0" i7="0"/>
+			<l id="1"/>
+			<l id="2"/>
+			<l id="3"/>
+		</MarkFilt>
+		<MarkFilt Chan="6">
+			<l id="0" i0="3" i1="0" i2="0" i3="0" i4="0" i5="0" i6="0" i7="0"/>
+			<l id="1"/>
+			<l id="2"/>
+			<l id="3"/>
+		</MarkFilt>
+		<View>
+			<WPlace flags="2" showc="3" minx="160" miny="830" maxx="-8" maxy="-31" t="26" b="620" l="26" r="1682"/>
+			<Font hgt="-11" hthou="-115" wgt="400" paf="16" fnam="Times New Roman"/>
+			<Chan Chan="6" DMode="11" DWidth="0.9999999999999999" DTrig="31" DBoth="1" DMkMode="1" AxMin="-0.0929412841796875" AxMax="0.0920257568359375" AdcAxMin="-0.0929412841796875" AdcAxMax="0.0920257568359375" FreqAxMax="60" AxType="1" ChType="6" BackOv="0"/>
+			<Chan Chan="31" DMode="9" DTrig="65535" DBoth="1" DHLine="1" DSubMd="2" Vis="0" Ax="0" AdcAxMax="1" ChType="5" BackOv="0"/>
+			<Chan Chan="30" DMode="9" DTrig="65535" DBoth="1" DHLine="1" DSubMd="2" Vis="0" Ax="0" AdcAxMax="1" FreqAxMax="2" ChType="5" BackOv="0"/>
+			<Chan Chan="5" DMode="11" DWidth="0.9999999999999999" DTrig="31" DBoth="1" DMkMode="1" Vis="0" AxMin="-0.085" AxMax="0.08" AdcAxMin="-0.085" AdcAxMax="0.08" FreqAxMax="60" AxType="1" ChType="6" BackOv="0"/>
+			<Chan Chan="4" DMode="11" DSubMd="2" AxMin="-11.785125732421875" AxMax="238.59176635742188" AdcAxMin="-11.785125732421875" AdcAxMax="238.59176635742188" FreqAxMax="50.00000000000001" AxType="1" ChType="1" PenWidth="1.5" PriCol="17" PriOv="255" BackOv="0"/>
+			<Chan Chan="3" DMode="11" DSubMd="2" Vis="0" AxMin="15.307692307692314" AxMax="56.84615384615385" AdcAxMin="15.307692307692314" AdcAxMax="56.84615384615385" FreqAxMax="50.00000000000001" AxType="1" ChType="1" BackOv="0"/>
+			<Chan Chan="2" DMode="11" DSubMd="2" Vis="0" AxMin="-0.12568283081054688" AxMax="2.6242332458496094" AdcAxMin="-0.12568283081054688" AdcAxMax="2.6242332458496094" FreqAxMax="50.00000000000001" AxType="1" ChType="1" BackOv="0"/>
+			<Chan Chan="1" DMode="11" DSubMd="2" DMkMode="1" Vis="0" AxMin="0.308107868264626" AxMax="-0.308107868264626" AdcAxMin="0.308107868264626" AdcAxMax="-0.308107868264626" FreqAxMax="200" AxType="1" ChType="6" BackOv="0"/>
+			<Chan Chan="0" DMode="11" DSubMd="2" AxMin="-0.04" AxMax="0.135" AdcAxMin="-0.04" AdcAxMax="0.135" FreqAxMax="10000" AxType="1" ChType="1" BackOv="0"/>
+			<XInfo Right="441.26176" XAxFlags="2" XAxSmall="10" CRBack="0" VCLabMode="2" HCLabMode="1" VCCount="1">
+				<VCur id="0" Pos="3.8593599999999997" LabMode="2" LabPos="0.2" Num="0"/>
+			</XInfo>
+			<ChOrder Chans="9">
+				<c id="0" Chan="6"/>
+				<c id="1" Chan="31"/>
+				<c id="2" Chan="30"/>
+				<c id="3" Chan="5"/>
+				<c id="4" Chan="4"/>
+				<c id="5" Chan="3"/>
+				<c id="6" Chan="2"/>
+				<c id="7" Chan="1"/>
+				<c id="8"/>
+			</ChOrder>
+			<CursVals t="425" b="625" l="548" r="1159"/>
+			<CursRegs t="736" b="904" l="412" r="1273" YZero="0" Mode="1"/>
+			<OvDraw3d YProp="0.5" XScale="0.5" YScale="0.5"/>
+		</View>
+	</DocTime>
+</CEDResources>
